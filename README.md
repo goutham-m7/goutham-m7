@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Goutham Madineni 👋
 
 Welcome to my GitHub! I'm a passionate developer who loves to build cool things with code. 🌱 
 
@@ -6,19 +6,18 @@ Feel free to explore my repositories, contribute to my open-source projects, or 
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Your Project]**.
-- 🌱 I’m currently learning **[Technology/Framework]**.
+- 🔭 I’m currently working on **Blood group detection using Fingerprint**.
+- 🌱 I’m currently learning **Python Automation**.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 🤔 I’m looking for help with **[Specific Problem/Technology]**.
-- 💬 Ask me about **[Topics you’re familiar with]**.
-- 📫 How to reach me: **[Your Contact Information]**.
-- ⚡ Fun fact: **[A fun or quirky fact about yourself]**.
+- 💬 Ask me about **Python, Java, Azure, AWS, etc**.
+- 📫 How to reach me: **mgoutham1975@gmail.com**.
+- ⚡ Fun fact: **I love coding and exploring the world.**.
 
 ## 🚀 My Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutham-m7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)](https://github.com/[YourUsername])
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham-m7&layout=compact&theme=radical)](https://github.com/goutham-m7)
 
 ## 🔧 Technologies & Tools
 
@@ -43,26 +42,15 @@ Feel free to explore my repositories, contribute to my open-source projects, or 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/[YourUsername]/[Repository]/pull/123) in [YourRepo](https://github.com/[YourUsername]/[Repository])
-2. 📝 Created new issue [#56](https://github.com/[YourUsername]/[Repository]/issues/56) in [YourRepo](https://github.com/[YourUsername]/[Repository])
-3. 🌱 Pushed new commit to [YourRepo](https://github.com/[YourUsername]/[Repository]) (Message: "Fixed bug in the authentication system")
-<!--END_SECTION:activity-->
 
 ---
 
 ## 💬 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/[YourLinkedIn])
-- [Twitter](https://twitter.com/[YourTwitter])
-- [Personal Blog](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/goutham-madineni)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Visitor Count](https://profile-counter.glitch.me/[YourUsername]/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/goutham-m7/count.svg)

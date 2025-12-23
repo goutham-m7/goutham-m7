@@ -1,71 +1,95 @@
-# 👋 Hey there, I'm Goutham Madineni
+# Goutham Madineni
 
-Welcome to my GitHub! I'm a passionate developer with a strong background in AI, cloud computing, full-stack development, and DevOps. I love solving real-world problems through scalable, impactful code — from satellite-driven social impact platforms to intelligent academic tools.
+Software Engineer with experience in **Generative AI systems, cloud-native infrastructure, full-stack development, and DevOps automation**. Proven ability to design production-grade AI pipelines, optimize cloud costs, and deliver scalable solutions across enterprise and research environments.
 
-Explore my projects, drop a ⭐, and feel free to connect or collaborate!
-
----
-
-## 🧠 About Me
-
-- 🔭 Currently working on **Blood Group Detection using Fingerprint (AI + Image Processing)**.
-- 🌱 Learning **Python Automation** and **Generative AI**.
-- 👯 Open to collaborating on **AI/ML, Cloud, and Open-Source Projects**.
-- 💬 Ask me about **Python, Java, Azure, AWS, Terraform, ML/DL, or DevOps**.
-- 🧭 Mission: Building tech that improves lives through intelligence, efficiency, and inclusion.
-- 📫 Reach me at: **mgoutham1975@gmail.com**
-- 🌏 Based in: India
+📍 India  
+📧 mgoutham1975@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/goutham-madineni  
+💻 GitHub: https://github.com/goutham-m7  
 
 ---
 
-## 🏆 Awards & Achievements
+## Technical Focus
 
-- 🥇 **Winner** – *Google Solutions Challenge (On-campus)* – Project: **HopeLift**
-- 🥇 **Winner** – *CBIT Hackathon* – Project: **GeoVision**
-- 🧠 Achieved **80%+ accuracy** on AI-powered medical document structuring using LLMs.
-- ☁️ Reduced cloud ops cost by **15–20%** during DevOps internships using AWS & Azure.
-- 📢 Speaker & organizer for **Machine Learning events** with 600+ attendees.
-
----
-
-## 🚀 Projects
-
-### 🧠 StudBud – AI Study Planner
-> AI tool to personalize academic planning, voice-to-visual features, and multi-language support.
-> Boosted student efficiency by 30% and enhanced inclusivity for 50+ users.
-
-### 🛰️ GeoVision & HopeLift – Satellite-Based Poverty & Disaster Analysis
-> Combined U-Net & YOLO on Copernicus/Sentinel data to segment land, water, urbanization, and generate actionable reports for NGOs.
-
-### 💊 Pharmaceutical Management System (OCR)
-> Python + Tesseract OCR-based system for shelf automation, allergen alerts, and real-time stock tracking for pharmacies.
-
-### ☁️ Cloud Reboot Cost Analyzer
-> AWS + Azure multi-account cloud visibility and automated cost report generator (15% spend reduction).
+- Generative AI & LLM Systems (NL→SQL, document intelligence, automation)
+- Cloud Engineering & Cost Optimization (AWS, Azure)
+- Full-Stack Development (Next.js, React, Django, Flask)
+- DevOps & Infrastructure Automation (Docker, Kubernetes, Terraform)
+- Applied Machine Learning & Computer Vision
 
 ---
 
-## 🎓 Education
+## Experience
 
-- 🎓 B.Sc. in Data Science – *IIT Madras* (2022–2026)
-- 🎓 B.Tech in Computer Science (AI & ML) – *CVR College of Engineering* (2022–2026)
+### Model N — NLP / GenAI Intern  
+**July 2025 – December 2025**
 
----
-
-## 📜 Certifications
-
-- 🧠 **Azure AI Engineer Associate** – Microsoft (May 2024)
-- 🛡️ **Google Cybersecurity Specialization** – Coursera/Google (Sep 2024)
-- 🗄️ **Database Programming with SQL** – Oracle Academy (July 2024)
-- ☁️ **Azure Fundamentals** – Microsoft (April 2024)
+- Designed and implemented a **multi-agent LLM system** to automate enterprise data discovery, replacing a 6-step manual SQL workflow.
+- Built ontology-grounded NL→SQL reasoning with entity extraction, intent analysis, SQL generation, validation, and refinement.
+- Mitigated LLM hallucinations using deterministic SQL validation and refinement loops, achieving **91% executable SQL reliability**.
+- Validated system against a 150-query benchmark, achieving **82–87% accuracy** with **30–130s end-to-end latency**, reducing analyst effort by ~90%.
 
 ---
 
-## 🧑‍🤝‍🧑 Leadership & Community
+### PhyPal Inc. — Software Engineer Intern  
+**January 2025 – December 2025**
 
-- 🧬 **Secretary**, IEEE Nanotech Council – CVR College
-- 🌐 **WebOps Team Lead**, Wayanad House – IIT Madras (99% uptime)
-- 🤖 **Organizer**, LogicLooM ML Events – Hosted 600+ participants across 3 events
+- Built and fine-tuned **LLM-based pipelines** to extract and structure clinical text from medical documents, achieving **~80% accuracy** at scale.
+- Improved **Next.js application infrastructure** by refactoring core modules, optimizing builds, and stabilizing multiple sub-applications.
+- Implemented internal **automations** for data processing, deployments, and monitoring, reducing operational overhead.
+- Optimized AWS infrastructure using **Lambda, ECS, EKS, CloudWatch, CloudTrail, and SNS**, contributing to a **20% reduction in cloud costs** and **15% EC2 savings**.
+
+---
+
+### Cloud Reboot Inc. — Software Engineer Intern  
+**October 2023 – December 2024**
+
+- Built a multi-cloud resource visibility platform across **AWS, Azure, and Docker**, improving monitoring efficiency by 20%.
+- Engineered cross-account **AWS LightSail migrations** without EC2 bridges, reducing migration time by 25%.
+- Developed an automated cloud cost analysis tool generating actionable PDF reports, driving a **15% reduction in cloud spend**.
+- Implemented Python-based APIs for dynamic cloud resource provisioning with AI-driven automation, reducing provisioning errors by 30%.
+
+---
+
+## Selected Projects
+
+### StudBud — AI Study Planner
+- AI-driven academic planning platform with personalized schedules, voice-to-visual workflows, and multilingual support.
+- Improved study efficiency by ~30% for 50+ users.
+
+### GeoVision & HopeLift — Satellite Intelligence Platforms
+- Applied **U-Net and YOLO** on **Copernicus/Sentinel satellite imagery** for poverty estimation and disaster impact analysis.
+- Generated actionable insights and reports for social-impact and NGO use cases.
+
+### Pharmaceutical Management System (OCR)
+- Built a Python + Tesseract OCR system for automated shelf monitoring, allergen alerts, and real-time pharmacy inventory tracking.
+
+### Cloud Reboot Cost Analyzer
+- Designed a multi-account AWS + Azure cost analysis and reporting platform, achieving ~15% infrastructure cost reduction.
+
+---
+
+## Education
+
+**B.Sc. in Data Science** — IIT Madras (2022–2026)  
+**B.Tech in Computer Science (AI & ML)** — CVR College of Engineering (2022–2026)
+
+---
+
+## Certifications
+
+- Azure AI Engineer Associate — Microsoft
+- Google Cybersecurity Specialization — Google
+- Database Programming with SQL — Oracle Academy
+- Azure Fundamentals — Microsoft
+
+---
+
+## Leadership & Community
+
+- Secretary, IEEE Nanotechnology Council — CVR College
+- WebOps Team Lead, Wayanad House — IIT Madras (99% uptime)
+- Organizer, LogicLooM Machine Learning Events (600+ participants)
 
 ---
 
@@ -126,3 +150,7 @@ Explore my projects, drop a ⭐, and feel free to connect or collaborate!
 ---
 
 _“Build tech with empathy. Code to solve real problems.”_
+---
+
+> Engineering philosophy: Build systems that reason correctly, fail safely, and scale efficiently.
+
